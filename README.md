@@ -1,1 +1,33 @@
 # Music-Playlist-Manager-App
+Lesego Moagi 
+ST10476753
+IMAD5112 Practicum 
+19 June 2025 
+
+Github repository link:
+https://github.com/VCSTDN2024/imad5112-practicum-2025-ST10476753.git
+Source code:
+This is the code that I have made for my first screen xml, showing how I’ve added my buttons and my text views so that they function properly. I also added a background in this code and some colors so that my app is somewhat colorful and I also changed the color of my buttons to match the background that I chose for my app.
+  
+This is the second code that I have made for my second screens xml this also includes buttons that I have made the same color as my first screen and I also used the same color background for my second screen just so that is stays the same I also made the buttons the same color just to sort of stick to the theme of my app 
+   
+
+
+
+
+
+The main screen:
+This is my layout for my first screen and as you can see my background and my buttons are all the same colors because pink is the theme that I have decided to go with for this particular app therefor I also made my text inside my buttons white to perfectly match the background I have decided to go with 
+ 
+
+Detailed view screen:
+This is my second layout for my second screen but the only difference with this screen is that instead of having my buttons all the top, with this screen I made my button be in a row just ab over each other simply because I didn’t want my app to look the same throughout considering the fact that I have already used the same background for both my screens 
+ 
+
+
+
+
+
+
+
+
